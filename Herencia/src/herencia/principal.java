@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
  */
 //hola mundo
 public final class principal extends javax.swing.JFrame {
-    BotonContador botonmodas;
+    BotonContador botona;
     BotonContador botonb;
     BotonContador botonc;
     BotonContador botond;
