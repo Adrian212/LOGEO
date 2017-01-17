@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
  *
  * @author Laptop
  */
+//hola mundo
 public final class principal extends javax.swing.JFrame {
     BotonContador botona;
     BotonContador botonb;
