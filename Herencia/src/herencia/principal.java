@@ -11,9 +11,9 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Laptop
+ * @author Adrian
  */
-//inicio
+//inicio portada
 public final class principal extends javax.swing.JFrame {
     BotonContador botona;
     BotonContador botonb;
